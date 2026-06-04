@@ -1,5 +1,5 @@
-# Python dependencies for VA Hosting Portal
 Flask
 Flask-SQLAlchemy
 psycopg2-binary
 python-dotenv
+gunicorn
